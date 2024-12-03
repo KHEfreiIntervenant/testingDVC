@@ -1,0 +1,6 @@
+artifact_location: file:///Users/khodor/Documents/Efrei/Courses/2024-2025/S9/MLOps/exercizes/dvc/testingDVC/mlruns/618698109185696561
+creation_time: 1733227654525
+experiment_id: '618698109185696561'
+last_update_time: 1733227654525
+lifecycle_stage: active
+name: RandomForestExperiment

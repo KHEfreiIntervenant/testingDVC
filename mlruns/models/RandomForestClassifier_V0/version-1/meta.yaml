@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733263124542
+current_stage: None
+description: null
+last_updated_timestamp: 1733263124542
+name: RandomForestClassifier_V0
+run_id: 3917a9e3038b4931b2eb6ca162250a40
+run_link: null
+source: file:///Users/khodor/Documents/Efrei/Courses/2024-2025/S9/MLOps/exercizes/dvc/testingDVC/mlruns/618698109185696561/3917a9e3038b4931b2eb6ca162250a40/artifacts/RandomForestClassifier_V0
+status: READY
+status_message: null
+storage_location: file:///Users/khodor/Documents/Efrei/Courses/2024-2025/S9/MLOps/exercizes/dvc/testingDVC/mlruns/618698109185696561/3917a9e3038b4931b2eb6ca162250a40/artifacts/RandomForestClassifier_V0
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/khodor/Documents/Efrei/Courses/2024-2025/S9/MLOps/exercizes/dvc/testingDVC/mlruns/618698109185696561/3917a9e3038b4931b2eb6ca162250a40/artifacts
+end_time: 1733263100472
+entry_point_name: ''
+experiment_id: '618698109185696561'
+lifecycle_stage: active
+run_id: 3917a9e3038b4931b2eb6ca162250a40
+run_name: painted-squirrel-800
+run_uuid: 3917a9e3038b4931b2eb6ca162250a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733263097029
+status: 3
+tags: []
+user_id: khodor
