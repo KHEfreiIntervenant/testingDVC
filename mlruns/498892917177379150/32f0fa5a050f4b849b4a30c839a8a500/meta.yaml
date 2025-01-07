@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/khodor/Documents/Efrei/Courses/2024-2025/S9/MLOps/exercizes/dvc/testingDVC/mlruns/498892917177379150/32f0fa5a050f4b849b4a30c839a8a500/artifacts
+end_time: 1736255000759
+entry_point_name: ''
+experiment_id: '498892917177379150'
+lifecycle_stage: active
+run_id: 32f0fa5a050f4b849b4a30c839a8a500
+run_name: clean-mare-358
+run_uuid: 32f0fa5a050f4b849b4a30c839a8a500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736254991509
+status: 3
+tags: []
+user_id: khodor

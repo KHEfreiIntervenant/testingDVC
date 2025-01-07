@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/khodor/Documents/Efrei/Courses/2024-2025/S9/MLOps/exercizes/dvc/testingDVC/mlruns/498892917177379150/96e18337a3724c289fcf716220dd6487/artifacts
+end_time: 1736255005264
+entry_point_name: ''
+experiment_id: '498892917177379150'
+lifecycle_stage: active
+run_id: 96e18337a3724c289fcf716220dd6487
+run_name: upset-kit-835
+run_uuid: 96e18337a3724c289fcf716220dd6487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736255000778
+status: 3
+tags: []
+user_id: khodor
